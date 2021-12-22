@@ -1,0 +1,51 @@
+h1 {
+    font-family: cursive;
+    color: rgb(50, 50, 167);
+    font: larger;
+    font-style: bold;
+}
+
+form {
+    background-color: rgb(232, 243, 247);
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 153, 145);
+    font-style: italic;
+    font-size: larger;
+    padding: 5px;
+}
+
+.car1 {
+    border: 1px solid white;
+    border-radius: 10%;
+}
+
+.car2 {
+    border: 1px solid white);
+    border-radius: 10%;
+}
+.car3 {
+    border: 1px solid white;
+    border-radius: 10%;
+}
+.car4 {
+    border: 1px solid white;
+    border-radius: 10%;
+}
+
+.map {
+    height: 30%; 
+    width: 30%;
+}
+
+section {
+    margin-top: 5px;
+}
+
+.navbar-nav {
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-style:inherit;
+    font-family: monospace;
+}
